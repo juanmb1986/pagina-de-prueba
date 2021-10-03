@@ -1,0 +1,55 @@
+*{
+    margin: 1;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(194, 162, 115);
+}
+
+header{
+    background-color: rgba(49, 47, 47, 0.733);
+}
+
+nav{
+    background-color: rgba(199, 158, 98, 0.801);
+    margin: 10px;
+    display: block;
+}
+
+section{
+    background-color: rgba(194, 162, 115, 0.863);
+}
+
+#main{
+    background-color: rgb(199, 158, 98);
+}
+
+footer{
+    background-color: rgba(27, 26, 26, 0.904);
+}
+
+footer p{
+    color: rgb(199, 158, 98);
+}
+
+form{
+    padding: 5px;
+    margin: 5px;
+}
+
+label{
+    display: block;
+}
+
+input{
+    width: 94%;
+}
+
+textarea{
+    width: 94%;
+}
